@@ -1,8 +1,14 @@
-# React + Vite
+# Gemini Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository houses a React application that replicates core functionalities of Google's Gemini large language model. Users can interact with the AI for various tasks, including:
 
-Currently, two official plugins are available:
+* Text Generation
+* Chat conversations
+* And more (depending on your implementation)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Technologies:
+
+* React: Used for building a user-friendly and interactive interface.
+* Gemini API: Provides access to Google's powerful AI capabilities.
+
+Try it out at: https://m-umerr.github.io/Gemini-Clone/
